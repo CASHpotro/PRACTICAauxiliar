@@ -38,9 +38,9 @@ class ReproductorMP4:
 
 mp4 = ReproductorMP4(100)
 
-mp4 + ("sespacito", 30, "agner")
-mp4 + ("bailando", 40, "asisitiri")
-mp4 + ("looo", 25, "americo")
+mp4 + ("sespacito", 30, "gomez")
+mp4 + ("bailando", 40, "blanco")
+mp4 + ("looo", 25, "cash")
 
 mp4 - ("brankig bad", 50, "ntflix")
 
